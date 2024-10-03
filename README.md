@@ -69,8 +69,8 @@ ________________________________________________________________________________
 <br/>Criar códigos é como compor uma música: cada sintaxe tem seu ritmo, e o resultado final é uma sinfonia digital que impacta as pessoas.
 
 <!--DIPLOMA E CERTIFICADOS, (COLOQUE OS SEUS PROJETOS AQUI)                                 -->
-## Formação acadêmica:
-- Ciencia da computação<br/>UNICID - Universidade cidade de São Paulo<br/>
+## Formação acadêmica em desenvolvimento:
+- Ciencia da computação<br/>UNICID - Universidade cidade de São Paulo - 2024 até 2028 <br/>
 ## Licenças e certificados:
 - [Photoshop CC COMPLETO - Design Gráfico do Zero ao Avançado](https://www.udemy.com/certificate/UC-5b26a5ab-af73-4d60-b57a-f89c34a4a7fe/)<br/>
 
