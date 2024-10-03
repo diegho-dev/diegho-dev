@@ -85,7 +85,9 @@ ________________________________________________________________________________
 
 <!--JOGO DA COBRA                                                                            -->
 
+### 🐍 Snake Game Contributions
 ![Snake animation](https://github.com/diegho-dev/diegho-dev/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
