@@ -20,7 +20,8 @@ ________________________________________________________________________________
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
 ____________________________________________________________________________________________ -->
-<img src="https://github.com/user-attachments/assets/26ec28cf-9e84-419f-9e85-c8c3968c386d" alt="gif_relembrando_fatos" style="float: right;" />
+<img src="https://github.com/user-attachments/assets/26ec28cf-9e84-419f-9e85-c8c3968c386d" alt="gif_relembrando_fatos" align="right" />
+
 
 
 <!--LETREIRO                                                                               -->
