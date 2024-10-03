@@ -1,6 +1,9 @@
-<!--Baixe a extensão "Auto-Open Markdown Preview" depois clique com o direito no projeto e selecione a opção "Open Preview" arraste a nova aba para a direita até dividir a tela em dois, agora substitua os usernames que estão nos códigos dos painéis de status, Snake animation, e workflous, onde estiver escrito “Rafa-s-s” substitua pelo seu username.
--->
+<!--Baixe a extensão "Auto-Open Markdown Preview" depois clique com o direito no projeto e selecione a opção "Open Preview" arraste a n
 
+
+
+ova aba para a direita até dividir a tela em dois, agora substitua os usernames que estão nos códigos dos painéis de status, Snake animation, e workflous, onde estiver escrito “Rafa-s-s” substitua pelo seu username.
+-->
 <!--REDES SOCIAIS (SUBSTITUA A URL PELA URL DO SEU PERFIL)                                 -->
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511965236102)
 [![Gmail](https://img.shields.io/badge/Gmail-fd3a2d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegho.consultoriapro@gmail.com)
@@ -17,6 +20,8 @@ ________________________________________________________________________________
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
 ____________________________________________________________________________________________ -->
+<img src="https://github.com/user-attachments/assets/26ec28cf-9e84-419f-9e85-c8c3968c386d" alt="gif_relembrando_fatos" style="float: right;" />
+
 
 <!--LETREIRO                                                                               -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00b4&width=435&lines=Ol%C3%A1!+Sou+o+Diegho+Soares+dos+Santos;Tenho+21+anos.;Estudante+de+ciência+da+computa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
