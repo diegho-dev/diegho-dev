@@ -20,8 +20,9 @@ ________________________________________________________________________________
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
 Gif -->
+<img src="https://raw.githubusercontent.com/diegho-dev/diegho-dev/1422dcf6a9bae2b0a54ca9f50ed737c40c918391/gif-relembrandofatos.gif" alt="gif_relembrando_fatos" align="right" width="300" />
 
-<img src="https://github.com/user-attachments/assets/26ec28cf-9e84-419f-9e85-c8c3968c386d" alt="gif_relembrando_fatos" align="right" />
+
 
 
 
