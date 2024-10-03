@@ -19,7 +19,8 @@ ________________________________________________________________________________
 ![Banner_Github_diegho_](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
-____________________________________________________________________________________________ -->
+Gif -->
+
 <img src="https://github.com/user-attachments/assets/26ec28cf-9e84-419f-9e85-c8c3968c386d" alt="gif_relembrando_fatos" align="right" />
 
 
