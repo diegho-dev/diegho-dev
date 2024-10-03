@@ -19,16 +19,16 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________ -->
 
 <!--LETREIRO                                                                               -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Ol%C3%A1!+Sou+o+Diegho+Soares+dos+Santos;Tenho+21+anos.;Estudante+de+ciência+da+computa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00b4&width=435&lines=Ol%C3%A1!+Sou+o+Diegho+Soares+dos+Santos;Tenho+21+anos.;Estudante+de+ciência+da+computa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 
 <!-- 
 ____________________________________________________________________________________________ -->
 
 <!--PAINEIS STATUS                                                                           -->
-![Diegho GitHub stats](https://github-readme-stats.vercel.app/api?username=diegho-dev&show_icons=true&title_color=01b9f9&icon_color=FF0000&bg_color=0d1117&text_color=ffffff)
+![Diegho GitHub stats](https://github-readme-stats.vercel.app/api?username=diegho-dev&show_icons=true&title_color=ffffff&icon_color=ff00b4&bg_color=0d1117&text_color=ffffff)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegho-dev&theme=default&background=0d1117&stroke=ffffff&ring=ffffff&fire=FF0000e1&currStreakNum=ff0000&sideNums=01b9f9&currStreakLabel=ffffff&sideLabels=ffffff&dates=01b9f9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegho-dev&theme=default&background=0d1117&stroke=ffffff&ring=ffffff&fire=ff00b4&currStreakNum=01b9f9&sideNums=01b9f9&currStreakLabel=ffffff&sideLabels=ffffff&dates=01b9f9)](https://git.io/streak-stats)
 
 
 <!-- 
@@ -148,4 +148,3 @@ jobs:
 
 ___________________________________________________________________________________________________ -->
 <!--Não esqueça de substituir os usernames que estão no código do workflous, Snake animation, e painéis de status da conta, onde estiver escrito “Rafa-s-s” substitua pelo seu username -->
-
