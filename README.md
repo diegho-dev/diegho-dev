@@ -6,7 +6,7 @@ ova aba para a direita até dividir a tela em dois, agora substitua os usernames
 -->
 <!--REDES SOCIAIS (SUBSTITUA A URL PELA URL DO SEU PERFIL)                                 -->
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511965236102)
-[![Gmail](https://img.shields.io/badge/Gmail-fd3a2d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegho.consultoriapro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fd3a2d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegho.consultoriapro@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegho-soares/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/designer-pratico)
 [![TikTok](https://img.shields.io/badge/tiktok-000001?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@relembrando_fatos)
