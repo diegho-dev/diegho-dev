@@ -16,7 +16,7 @@ ova aba para a direita até dividir a tela em dois, agora substitua os usernames
 ____________________________________________________________________________________________ -->
 
 <!--BANNER                                                                                   -->
-![Banner_Github_diegho_](https://github.com/diegho-dev/diegho-dev/blob/main/Banner-github_melhorado.gif)
+![Banner_Github_diegho_](https://github.com/diegho-dev/diegho-dev/blob/main/.github/Banner-github.gif)
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
 Gif personagem -->
