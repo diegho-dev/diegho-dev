@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <!-- ![Banner-github](https://github.com/user-attachments/assets/bf62d4f5-fe8b-4e96-aa7c-328d4e391919)
 
 Gif personagem -->
-<img src="https://github.com/diegho-dev/diegho-dev/blob/main/Relembrandofatos.gif" alt="gif_relembrando_fatos" align="right" width="350" />
+<img src="https://github.com/diegho-dev/diegho-dev/blob/main/.github/Relembrando_Fatos.gif" alt="gif_relembrando_fatos" align="right" width="350" />
 
 
 
